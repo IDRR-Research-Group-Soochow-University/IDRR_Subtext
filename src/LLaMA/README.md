@@ -6,18 +6,18 @@ Do training and prediction using LLaMA
 
 <!-- 1. run `src/template_script/dataset_script.py` -->
 
-- run `src/scripts/train_script_test.py`
+- run `train_script_test.py`
 
-- run `src/scripts/pred_script_test.py`
+- run `pred_script_test.py`
 
-- run `src/analyse.py`
+- run `analyse.py`
 
-- run `src/eval_confidence_scores.py`
+- run `eval_confidence_scores.py`
 
 
 ## Prompt
 
-* GPT 生成潜台词
+* Subtext Generation (By GPT)
 
 User:
 
@@ -50,7 +50,7 @@ Bot:
 
     {pure label}
 
-* 蒸馏潜台词
+* Distillation (For Subtext Generation) 
 
 Input:
 
@@ -65,7 +65,7 @@ Output:
 
     {subtext}
 
-* 筛选潜台词（辨别器）
+* Subtext Filtering
 
 Input:
 
@@ -85,7 +85,7 @@ Output:
 
     {yes/no}
 
-* 主任务
+* Main Task (IDRR)
 
 Input:
 
