@@ -17,7 +17,7 @@ Implicit Discourse Relation Recognition (abbr., IDRR) is a NLP task of classifyi
 - [utils_zp](https://github.com/ZpWang-AI/utils_zp)
 - [IDRR_data](https://github.com/IDRR-Research-Group-Soochow-University/IDRR-data)
 - [llm_zp](https://github.com/ZpWang-AI/llm_zp)
-- [LLaMA-Factory_zp](https://github.com/ZpWang-AI/LLaMA-Factory)
+- [LLaMA-Factory_zp_subtext](https://github.com/ZpWang-AI/LLaMA-Factory_zp_subtext)
 <!-- - [llama_zp](https://github.com:ZpWang-AI/LLaMA-Factory_zp) -->
 
 # Citation
