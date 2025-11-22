@@ -12,7 +12,7 @@ Do training and prediction using LLaMA
 
 - run `analyse.py`
 
-- run `eval_confidence_scores.py`
+- run `cssf.py`
 
 
 ## Prompt
